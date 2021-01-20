@@ -1,0 +1,17 @@
+- id: prev_page
+  translation: "이전 페이지"
+
+- id: next_page
+  translation: "다음 페이지"
+
+- id: read_time
+  translation: "{{ .Count }}분 분량"
+
+- id: translations
+  translation: "언어"
+
+- id: draft
+  translation: "미완성"
+
+- id: toc
+  translation: "색인"
