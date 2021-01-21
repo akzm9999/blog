@@ -1,8 +1,10 @@
 baseURL: "https://akzm9999.github.io/blog"
 title: >
-  HOQN [개발노트]
+  HOQN
 paginate: 8
 theme: "PaperMod"
+
+publishDir: docs
 
 defaultContentLanguage: ko
 
@@ -22,6 +24,7 @@ languages:
     ko:
         languageName: "한국어"
         weight: 1
+        title: 'HOQN'
         menu:
             main:
                 #- name: 아카이브
@@ -40,13 +43,13 @@ languages:
                   url: categories/
                   weight: 20
                 - name: 아카이브
-                  url: archives
+                  url: archives/
                   weight: 50
 
     en:
         languageName: "English"
         weight: 2
-        title: 'HOQN [Dev Note]'
+        title: 'HOQN'
         profileMode:
             enabled: true
             title: PaperMod

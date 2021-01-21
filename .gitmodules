@@ -1,4 +1,0 @@
-[submodule "public"]
-	path = public
-	url = https://github.com/akzm9999/blog.git
-	branch = master
